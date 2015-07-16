@@ -12,3 +12,6 @@ coffee index.coffee
 ```
 
 Setup a Slack Outgoing Webhook to POST to the above port, e.g. `/lunch`.
+
+ex:
+![Screenshot](https://raw.githubusercontent.com/mmissey/slack2me/master/img/slack2meSS.png)
